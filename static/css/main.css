@@ -1,0 +1,38 @@
+body{
+  background:;
+    background-image:url('../img/sport-cars.png');
+
+}
+
+h1 {
+    font: times;
+    font-size: 2.5em;
+    color: ;
+}
+
+h2 {
+    font-size: 2em;
+    color: red;
+}
+
+h3 {
+    font-size: 2em;
+    color: green;
+}
+
+a {
+    font-size: 2em;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.hovered {
+    opacity: .6;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
